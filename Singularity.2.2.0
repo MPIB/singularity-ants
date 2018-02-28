@@ -39,7 +39,7 @@ mv ${ANTS_GIT_REPOSITORY}/ANTSCopyright.txt ${ANTS_HOME}/
 cmake ${ANTS_GIT_REPOSITORY}
 make
 
-# Move sripts into the ANTs path.
+# Move scripts into the ANTs path.
 mv ${ANTS_GIT_REPOSITORY}/Scripts/* $ANTS_HOME/bin/
 
 # Set the path environment variables for ANTs.
