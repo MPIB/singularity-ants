@@ -1,4 +1,6 @@
 # singularity-ants
+[![https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg](https://www.singularity-hub.org/static/img/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/660)
+
 Singularity recipes for base-images containing ANTs (Advanced Normalization Tools). You can get the [code and documentation for ANTs through GitHub](https://github.com/ANTsX/ANTs).
 
  - ANTs is pulled from its [github repository](https://github.com/ANTsX/ANTs) and build using cmake.
